@@ -13,7 +13,7 @@ body {
 }
 a {
 	display: block;
-	background: #00A9D4;
+	background: #fa0000;
 	color: #fff;
 	padding: 15px;
 	cursor: pointer;
@@ -24,7 +24,7 @@ a {
 	font-size: 20px;
 }
 a:hover {
-	background: #00729D;
+	background: #ff0000;
 }
 .btn-2 {
 	background: #F98909;
